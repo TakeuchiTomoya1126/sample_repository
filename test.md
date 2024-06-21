@@ -1,4 +1,0 @@
-Hello GitHub 
-Konbanha!
-
-Ohayou!
